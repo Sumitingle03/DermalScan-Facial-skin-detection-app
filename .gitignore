@@ -8,3 +8,6 @@ venv/
 
 # Distribution / packaging
 .Python
+
+# Keras/TensorFlow model files
+*.h5
