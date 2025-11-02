@@ -1,0 +1,7 @@
+
+streamlit==1.39.0
+numpy==1.26.4
+pandas
+opencv-python-headless
+# For loading .h5 Keras models
+tensorflow==2.15.0
