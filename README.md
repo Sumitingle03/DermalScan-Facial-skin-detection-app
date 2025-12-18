@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
 1.  **Clone the repository:**
     ```bash
     git clone <your-repository-url>
-    cd Dermal_Scan_project
+    cd DermalScan-Facial-skin-detection-app
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -78,7 +78,7 @@ To run this project locally, follow these steps:
 
 5.  **Run the Streamlit App:**
     ```bash
-    streamlit run frontend.py
+    streamlit run main.py
     ```
 
 6.  Open your web browser and navigate to `http://localhost:8501`.
